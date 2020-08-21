@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/top"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/top_next"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/lunch"
+        android:title="@string/lunch" >
+        <menu >
+            <item
+                android:id="@+id/lunch01"
+                android:title="@string/lunch01" />
+            <item
+                android:id="@+id/lunch02"
+                android:title="@string/lunch02" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/dinner"
+        android:title="@string/dinner" >
+        <menu >
+            <item
+                android:id="@+id/dinner01"
+                android:title="@string/dinner01" />
+            <item
+                android:id="@+id/dinner02"
+                android:title="@string/dinner02" />
+        </menu>
+    </item>
+</menu>

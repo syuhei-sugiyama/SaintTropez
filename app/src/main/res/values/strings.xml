@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Saint Tropez</string>
+    <string name="top">top</string>
+    <string name="top_next">TOP PAGE</string>
+    <string name="lunch">ランチ</string>
+    <string name="dinner">ディナー</string>
+    <string name="lunch01">エビフライと牛ロースステーキ</string>
+    <string name="lunch02">鶏の赤ワイン煮</string>
+    <string name="dinner01">海の幸コース</string>
+    <string name="dinner02">牛フィレ肉のセット</string>
+    <string name="sms">SMSで予約</string>
+    <string name="mail">メールで予約</string>
+    <string name="share">共有する</string>
+    <string name="browse">ウェブサイトを開く</string>
+</resources>
